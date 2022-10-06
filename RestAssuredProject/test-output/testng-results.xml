@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4155" started-at="2022-10-06T12:39:36 UTC" finished-at="2022-10-06T12:39:40 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4155" started-at="2022-10-06T12:39:36 UTC" finished-at="2022-10-06T12:39:40 UTC">
+      <class name="goRest.CreateUpdateDeleteUser">
+        <test-method status="PASS" signature="setup()[pri:0, instance:goRest.CreateUpdateDeleteUser@5ef60048]" name="setup" is-config="true" duration-ms="49" started-at="2022-10-06T12:39:36 UTC" finished-at="2022-10-06T12:39:36 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="postData()[pri:0, instance:goRest.CreateUpdateDeleteUser@5ef60048]" name="postData" duration-ms="287" started-at="2022-10-06T12:39:36 UTC" finished-at="2022-10-06T12:39:36 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+        <test-method status="PASS" signature="createUser()[pri:1, instance:goRest.CreateUpdateDeleteUser@5ef60048]" name="createUser" duration-ms="2339" started-at="2022-10-06T12:39:37 UTC" finished-at="2022-10-06T12:39:39 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="updateUser()[pri:2, instance:goRest.CreateUpdateDeleteUser@5ef60048]" name="updateUser" duration-ms="999" started-at="2022-10-06T12:39:39 UTC" finished-at="2022-10-06T12:39:40 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method status="PASS" signature="deleteUser()[pri:3, instance:goRest.CreateUpdateDeleteUser@5ef60048]" name="deleteUser" duration-ms="437" started-at="2022-10-06T12:39:40 UTC" finished-at="2022-10-06T12:39:40 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- goRest.CreateUpdateDeleteUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
